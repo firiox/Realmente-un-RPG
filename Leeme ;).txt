@@ -1,0 +1,11 @@
+Contexto
+Personajes
+- Jugables
+-- W -> es un mago
+-No Jugables
+-- N -> es un npc
+
+Terreno
+- . -> Recorrible
+- | -> no recorrible
+
